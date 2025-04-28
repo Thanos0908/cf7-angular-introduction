@@ -1,6 +1,6 @@
 export interface Address {
   area: string;
-  road: string;
+  road: string
 }
 
 export interface Person {
